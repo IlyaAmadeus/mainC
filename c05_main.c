@@ -22,12 +22,6 @@
 #include "ex05/ft_sqrt.c"
 #include "ex06/ft_is_prime.c"
 #include "ex07/ft_find_next_prime.c"
-// #include "../C_00/ex00/ft_putchar.c"
-//#include "ex03/ft_str_is_alpha.c"
-//#include "ex04/ft_str_is_lowercase.c"
-//#include "ex05/ft_str_is_uppercase.c"
-
-
 
 int main()
 {
