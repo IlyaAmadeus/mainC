@@ -82,16 +82,5 @@ int main()
 	char *tab[3] = {"Hello", "World", "lmao"};
 	printf("%s\n\n", ft_strjoin(3, tab, "_"));
 
-	/*
-	printf("Joined string: %c", joined_str[j]);
-	printf("\nJoined string: %s", joined_str);
-	printf("Strings length = %i\n", strs_len);
-	printf("\n%s",strs[0]);
-	printf("\n%s", sep);
-	printf("\nsize = %i", size);
-	printf("\nmalloc = %lu\n", sizeof(char) * strs_len + 1);
-
-	*/
-
 	return (0);
 }
